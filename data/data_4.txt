@@ -1,0 +1,24 @@
+Title: Random Technical Notes
+
+API stands for Application Programming Interface. It allows different software systems to communicate.
+
+HTTP status codes:
+200 – OK
+404 – Not Found
+500 – Internal Server Error
+
+JSON is a lightweight data format commonly used in web applications. XML is another structured markup language used for data exchange.
+
+REST APIs typically use HTTP methods like GET, POST, PUT, and DELETE. They often return JSON responses with a status code to indicate success or failure.
+
+Common headers include Content-Type, Authorization, and Accept. CORS headers control browser access between different origins.
+
+Caching with headers like Cache-Control and ETag can improve performance and reduce server load.
+
+Rate limiting is used to protect APIs from abuse. It can be enforced per IP address, user, or API key.
+
+Authentication schemes include API keys, OAuth 2.0, and JWTs. Authorization determines which resources a client can access.
+
+Webhooks are used for event-driven integrations. They send HTTP callbacks to notify downstream systems of changes.
+
+Logging and tracing help diagnose latency and errors across distributed services.

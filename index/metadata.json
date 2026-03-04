@@ -1,0 +1,15 @@
+{
+  "config": {
+    "chunk_size": 200,
+    "chunk_overlap": 40,
+    "min_chunk_chars": 200,
+    "max_keywords": 8,
+    "top_k": 5
+  },
+  "documents": [
+    "data_1.txt",
+    "data_2.txt",
+    "data_3.txt",
+    "data_4.txt"
+  ]
+}

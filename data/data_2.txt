@@ -1,0 +1,24 @@
+Title: Basics of Machine Learning
+
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data. 
+
+There are three primary types:
+1. Supervised Learning – Uses labeled data.
+2. Unsupervised Learning – Finds patterns in unlabeled data.
+3. Reinforcement Learning – Learns via rewards and penalties.
+
+Common algorithms include linear regression, decision trees, neural networks, and k-means clustering.
+
+The typical workflow includes data collection, cleaning, feature engineering, model training, evaluation, and deployment.
+
+Evaluation metrics vary by problem type. Classification often uses accuracy, precision, recall, and F1-score. Regression commonly uses MAE, MSE, and R^2.
+
+Overfitting happens when a model memorizes training data rather than generalizing. Techniques like regularization, cross-validation, and early stopping help reduce it.
+
+Feature scaling is important for distance-based models such as k-nearest neighbors and support vector machines.
+
+Bias and variance describe model behavior. High bias leads to underfitting; high variance leads to overfitting.
+
+Train/validation/test splits help measure generalization and avoid leakage.
+
+Hyperparameters such as learning rate, tree depth, and regularization strength are tuned to improve performance.

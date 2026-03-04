@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "data_1.txt::chunk-0",
+    "doc_id": "data_1.txt",
+    "position": 0,
+    "text": "Title: The History of Coffee Coffee originated in Ethiopia, where legend says a goat herder named Kaldi first discovered the energizing effects of coffee beans. By the 15th century, coffee was cultivated in Yemen and spread across the Middle East. Coffee houses, known as \"qahveh khaneh,\" became centers for social activity and political discussion. By the 17th century, coffee had reached Europe and eventually the Americas. Today, coffee is one of the most traded commodities in the world, with Brazil being the largest producer. Regional styles vary widely. In Italy, espresso culture emphasizes short, concentrated shots. In Turkey, coffee is brewed unfiltered and served with grounds. In Vietnam, robusta beans are often paired with sweetened condensed milk. Brewing methods include drip, French press, pour-over, AeroPress, and cold brew. Each method changes extraction time, body, and acidity. Coffee processing shapes flavor. Washed coffees tend to be clean and bright, while natural processed coffees are fruitier and heavier-bodied. Honey process falls in between. Storage and freshness matter. Whole beans keep better than pre-ground coffee. Airtight containers and cool, dark storage help preserve aromas. Roast levels range from light to dark. Light roasts retain more acidity and origin flavors, while dark roasts emphasize"
+  },
+  {
+    "chunk_id": "data_1.txt::chunk-1",
+    "doc_id": "data_1.txt",
+    "position": 1,
+    "text": "between. Storage and freshness matter. Whole beans keep better than pre-ground coffee. Airtight containers and cool, dark storage help preserve aromas. Roast levels range from light to dark. Light roasts retain more acidity and origin flavors, while dark roasts emphasize caramelized, smoky notes. Grind size affects extraction. Fine grinds extract quickly for espresso, while coarse grinds suit French press and cold brew. Water quality matters. Balanced minerals improve extraction; overly soft or hard water can flatten flavors."
+  },
+  {
+    "chunk_id": "data_2.txt::chunk-0",
+    "doc_id": "data_2.txt",
+    "position": 0,
+    "text": "Title: Basics of Machine Learning Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data. There are three primary types: 1. Supervised Learning \u2013 Uses labeled data. 2. Unsupervised Learning \u2013 Finds patterns in unlabeled data. 3. Reinforcement Learning \u2013 Learns via rewards and penalties. Common algorithms include linear regression, decision trees, neural networks, and k-means clustering. The typical workflow includes data collection, cleaning, feature engineering, model training, evaluation, and deployment. Evaluation metrics vary by problem type. Classification often uses accuracy, precision, recall, and F1-score. Regression commonly uses MAE, MSE, and R^2. Overfitting happens when a model memorizes training data rather than generalizing. Techniques like regularization, cross-validation, and early stopping help reduce it. Feature scaling is important for distance-based models such as k-nearest neighbors and support vector machines. Bias and variance describe model behavior. High bias leads to underfitting; high variance leads to overfitting. Train/validation/test splits help measure generalization and avoid leakage. Hyperparameters such as learning rate, tree depth, and regularization strength are tuned to improve performance."
+  },
+  {
+    "chunk_id": "data_3.txt::chunk-0",
+    "doc_id": "data_3.txt",
+    "position": 0,
+    "text": "Title: Travel Guide \u2013 Kyoto Kyoto, once the capital of Japan, is famous for its temples, shrines, and traditional wooden houses. Top attractions include: - Fushimi Inari Shrine - Kinkaku-ji (Golden Pavilion) - Arashiyama Bamboo Forest Kyoto is especially popular during cherry blossom season in spring and autumn foliage season in November. Local cuisine highlights include kaiseki dining, yudofu (tofu hot pot), and matcha-based sweets. Nishiki Market is a popular place to sample regional foods. Getting around is easiest via buses and the subway. A day pass can be cost-effective if you plan multiple rides. Respectful etiquette is important at temples and shrines. Visitors should be quiet, avoid touching sacred objects, and follow posted guidance. Day trips from Kyoto include Nara for its deer park and temples, and Uji for tea farms and the Byodo-in Temple. Early mornings are quieter at major sites like Fushimi Inari and Kiyomizu-dera, making them ideal for photos. Gion is known for its traditional streets and teahouses. Evening walks can be a highlight. Many gardens, such as Ryoan-ji, feature zen rock layouts designed for contemplation."
+  },
+  {
+    "chunk_id": "data_4.txt::chunk-0",
+    "doc_id": "data_4.txt",
+    "position": 0,
+    "text": "Title: Random Technical Notes API stands for Application Programming Interface. It allows different software systems to communicate. HTTP status codes: 200 \u2013 OK 404 \u2013 Not Found 500 \u2013 Internal Server Error JSON is a lightweight data format commonly used in web applications. XML is another structured markup language used for data exchange. REST APIs typically use HTTP methods like GET, POST, PUT, and DELETE. They often return JSON responses with a status code to indicate success or failure. Common headers include Content-Type, Authorization, and Accept. CORS headers control browser access between different origins. Caching with headers like Cache-Control and ETag can improve performance and reduce server load. Rate limiting is used to protect APIs from abuse. It can be enforced per IP address, user, or API key. Authentication schemes include API keys, OAuth 2.0, and JWTs. Authorization determines which resources a client can access. Webhooks are used for event-driven integrations. They send HTTP callbacks to notify downstream systems of changes. Logging and tracing help diagnose latency and errors across distributed services."
+  }
+]

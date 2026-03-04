@@ -1,0 +1,7 @@
+{
+  "chunk_size": 200,
+  "chunk_overlap": 40,
+  "min_chunk_chars": 200,
+  "max_keywords": 2,
+  "top_k": 5
+}

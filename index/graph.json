@@ -1,0 +1,439 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "document",
+      "doc_id": "data_1.txt",
+      "id": "doc::data_1.txt"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "data_2.txt",
+      "id": "doc::data_2.txt"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "data_3.txt",
+      "id": "doc::data_3.txt"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "data_4.txt",
+      "id": "doc::data_4.txt"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "data_1.txt::chunk-0",
+      "doc_id": "data_1.txt",
+      "id": "chunk::data_1.txt::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "and",
+      "id": "kw::and"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "coffee",
+      "id": "kw::coffee"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "the",
+      "id": "kw::the"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "beans",
+      "id": "kw::beans"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "dark",
+      "id": "kw::dark"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "with",
+      "id": "kw::with"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "acidity",
+      "id": "kw::acidity"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "are",
+      "id": "kw::are"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "data_1.txt::chunk-1",
+      "doc_id": "data_1.txt",
+      "id": "chunk::data_1.txt::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "extraction",
+      "id": "kw::extraction"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "flavors",
+      "id": "kw::flavors"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "grinds",
+      "id": "kw::grinds"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "light",
+      "id": "kw::light"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "roasts",
+      "id": "kw::roasts"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "storage",
+      "id": "kw::storage"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "data_2.txt::chunk-0",
+      "doc_id": "data_2.txt",
+      "id": "chunk::data_2.txt::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "learning",
+      "id": "kw::learning"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "data",
+      "id": "kw::data"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "model",
+      "id": "kw::model"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "uses",
+      "id": "kw::uses"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "bias",
+      "id": "kw::bias"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "evaluation",
+      "id": "kw::evaluation"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "data_3.txt::chunk-0",
+      "doc_id": "data_3.txt",
+      "id": "chunk::data_3.txt::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "for",
+      "id": "kw::for"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "kyoto",
+      "id": "kw::kyoto"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "include",
+      "id": "kw::include"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "its",
+      "id": "kw::its"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "temples",
+      "id": "kw::temples"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "can",
+      "id": "kw::can"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "data_4.txt::chunk-0",
+      "doc_id": "data_4.txt",
+      "id": "chunk::data_4.txt::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "used",
+      "id": "kw::used"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "api",
+      "id": "kw::api"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "headers",
+      "id": "kw::headers"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "http",
+      "id": "kw::http"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "access",
+      "id": "kw::access"
+    }
+  ],
+  "edges": [
+    {
+      "edge_type": "contains",
+      "source": "doc::data_1.txt",
+      "target": "chunk::data_1.txt::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::data_1.txt",
+      "target": "chunk::data_1.txt::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::data_2.txt",
+      "target": "chunk::data_2.txt::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::data_3.txt",
+      "target": "chunk::data_3.txt::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::data_4.txt",
+      "target": "chunk::data_4.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::and"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::coffee"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::the"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::beans"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::dark"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::with"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::acidity"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-0",
+      "target": "kw::are"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::data_1.txt::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::data_2.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::data_3.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::data_4.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::data_3.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::dark",
+      "target": "chunk::data_1.txt::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::are",
+      "target": "chunk::data_2.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-1",
+      "target": "kw::extraction"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-1",
+      "target": "kw::flavors"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-1",
+      "target": "kw::grinds"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-1",
+      "target": "kw::light"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-1",
+      "target": "kw::roasts"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_1.txt::chunk-1",
+      "target": "kw::storage"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_2.txt::chunk-0",
+      "target": "kw::learning"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_2.txt::chunk-0",
+      "target": "kw::data"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_2.txt::chunk-0",
+      "target": "kw::model"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_2.txt::chunk-0",
+      "target": "kw::uses"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_2.txt::chunk-0",
+      "target": "kw::bias"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_2.txt::chunk-0",
+      "target": "kw::evaluation"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_3.txt::chunk-0",
+      "target": "kw::for"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_3.txt::chunk-0",
+      "target": "kw::kyoto"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_3.txt::chunk-0",
+      "target": "kw::include"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_3.txt::chunk-0",
+      "target": "kw::its"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_3.txt::chunk-0",
+      "target": "kw::temples"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_3.txt::chunk-0",
+      "target": "kw::can"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::for",
+      "target": "chunk::data_4.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::can",
+      "target": "chunk::data_4.txt::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_4.txt::chunk-0",
+      "target": "kw::used"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_4.txt::chunk-0",
+      "target": "kw::api"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_4.txt::chunk-0",
+      "target": "kw::headers"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_4.txt::chunk-0",
+      "target": "kw::http"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::data_4.txt::chunk-0",
+      "target": "kw::access"
+    }
+  ]
+}
