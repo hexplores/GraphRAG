@@ -8,4 +8,8 @@ __all__ = [
     "graph",
     "retrieval",
     "pipeline",
+<<<<<<< HEAD
+=======
+    "api",
+>>>>>>> d6105a8 (Add public API deployment support)
 ]

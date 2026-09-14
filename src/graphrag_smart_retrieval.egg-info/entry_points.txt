@@ -1,0 +1,2 @@
+[console_scripts]
+graphrag-smart-retrieval = graphrag_smart_retrieval.cli:main
