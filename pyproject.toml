@@ -22,10 +22,7 @@ dependencies = [
 
 [project.scripts]
 graphrag-smart-retrieval = "graphrag_smart_retrieval.cli:main"
-<<<<<<< HEAD
-=======
 graphrag-api = "graphrag_smart_retrieval.api:main"
->>>>>>> d6105a8 (Add public API deployment support)
 
 [tool.setuptools]
 package-dir = {"" = "src"}

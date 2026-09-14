@@ -35,8 +35,6 @@ The index folder contains:
 - graph.json
 - metadata.json
 
-<<<<<<< HEAD
-=======
 ## Public Deployment
 The app now includes a public HTTP API for deployment as a web service.
 
@@ -56,5 +54,3 @@ The project also includes a Dockerfile and a Heroku-style Procfile for deploymen
 - Set a public port via the PORT environment variable.
 - Point the app to a persistent index directory, or rebuild the index in a deployment step.
 - For public traffic, prefer a managed platform such as Render, Railway, Fly.io, or Azure App Service.
-
->>>>>>> d6105a8 (Add public API deployment support)

@@ -1,1 +1,2 @@
+graphrag_smart_retrieval
 graphrag_smart_retrival

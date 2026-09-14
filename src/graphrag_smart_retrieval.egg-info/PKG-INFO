@@ -49,3 +49,26 @@ The index folder contains:
 - graph.json
 - metadata.json
 
+<<<<<<< HEAD
+=======
+## Public Deployment
+The app now includes a public HTTP API for deployment as a web service.
+
+Start locally:
+- Command: uvicorn graphrag_smart_retrieval.api:app --host 0.0.0.0 --port 8000
+
+Health check:
+- URL: http://localhost:8000/health
+
+Query example:
+- URL: http://localhost:8000/query
+- Body: {"index_dir": "./index", "query": "your question", "top_k": 5, "use_graph": true}
+
+The project also includes a Dockerfile and a Heroku-style Procfile for deployment to cloud platforms.
+
+## Production notes
+- Set a public port via the PORT environment variable.
+- Point the app to a persistent index directory, or rebuild the index in a deployment step.
+- For public traffic, prefer a managed platform such as Render, Railway, Fly.io, or Azure App Service.
+
+>>>>>>> d6105a8 (Add public API deployment support)

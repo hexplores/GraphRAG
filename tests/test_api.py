@@ -1,8 +1,8 @@
 from fastapi.testclient import TestClient
 
-from graphrag_smart_retrival.api import app
-from graphrag_smart_retrival.pipeline import build_index
-from graphrag_smart_retrival.config import AppConfig
+from graphrag_smart_retrieval.api import app
+from graphrag_smart_retrieval.pipeline import build_index
+from graphrag_smart_retrieval.config import AppConfig
 
 
 def test_health_endpoint():
