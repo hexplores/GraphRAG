@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 import pickle
 
@@ -31,6 +32,7 @@ def save_embeddings(index: EmbeddingIndex, output_dir: str | Path) -> None:
     sparse.save_npz(output / "matrix.npz", index.matrix)
 
 
+@lru_cache(maxsize=8)
 def load_embeddings(output_dir: str | Path) -> EmbeddingIndex:
     output = Path(output_dir)
     with (output / "vectorizer.pkl").open("rb") as handle:

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 import json
 
@@ -20,6 +21,7 @@ class RetrievedChunk:
     doc_id: str
 
 
+@lru_cache(maxsize=8)
 def load_chunks(output_dir: str | Path) -> list[dict]:
     output = Path(output_dir)
     return json.loads((output / "chunks.json").read_text(encoding="utf-8"))

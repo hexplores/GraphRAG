@@ -6,9 +6,10 @@ from pathlib import Path
 
 from .chunking import create_chunks
 from .config import AppConfig
-from .embeddings import build_embeddings, save_embeddings
-from .graph import build_graph, save_graph
+from .embeddings import build_embeddings, load_embeddings, save_embeddings
+from .graph import build_graph, load_graph, save_graph
 from .ingest import load_documents
+from .retrieval import load_chunks
 
 
 def build_index(input_dir: str | Path, output_dir: str | Path, config: AppConfig) -> None:
@@ -49,3 +50,6 @@ def build_index(input_dir: str | Path, output_dir: str | Path, config: AppConfig
         json.dumps({"config": asdict(config), "documents": [doc.doc_id for doc in documents]}, indent=2),
         encoding="utf-8",
     )
+    load_embeddings.cache_clear()
+    load_graph.cache_clear()
+    load_chunks.cache_clear()

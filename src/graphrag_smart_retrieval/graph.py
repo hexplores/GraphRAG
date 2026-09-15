@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from functools import lru_cache
 import json
 import re
 from pathlib import Path
@@ -16,6 +17,7 @@ class GraphArtifacts:
 
 
 TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9_-]{2,}")
+ENTITY_RE = re.compile(r"\b(?:[A-Z][A-Za-z0-9_-]*)(?:\s+[A-Z][A-Za-z0-9_-]*)*\b")
 
 
 def extract_keywords(text: str, max_keywords: int) -> list[str]:
@@ -29,6 +31,11 @@ def extract_keywords(text: str, max_keywords: int) -> list[str]:
 
     sorted_tokens = sorted(frequencies.items(), key=lambda item: (-item[1], item[0]))
     return [token for token, _ in sorted_tokens[:max_keywords]]
+
+
+def extract_entities(text: str, max_entities: int = 12) -> list[str]:
+    entities = {match.group(0).strip() for match in ENTITY_RE.finditer(text)}
+    return sorted(entities, key=lambda value: (-len(value), value.lower()))[:max_entities]
 
 
 def build_graph(doc_ids: list[str], chunks: list[Chunk], max_keywords: int) -> GraphArtifacts:
@@ -53,6 +60,13 @@ def build_graph(doc_ids: list[str], chunks: list[Chunk], max_keywords: int) -> G
                 graph.add_node(keyword_node, node_type="keyword", keyword=keyword)
             graph.add_edge(chunk_node, keyword_node, edge_type="mentions")
 
+        for entity in extract_entities(chunk.text):
+            entity_key = entity.lower().replace(" ", "_")
+            entity_node = f"entity::{entity_key}"
+            if not graph.has_node(entity_node):
+                graph.add_node(entity_node, node_type="entity", entity=entity)
+            graph.add_edge(chunk_node, entity_node, edge_type="mentions_entity")
+
     return GraphArtifacts(graph=graph)
 
 
@@ -63,6 +77,7 @@ def save_graph(artifacts: GraphArtifacts, output_dir: str | Path) -> None:
     (output / "graph.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
+@lru_cache(maxsize=8)
 def load_graph(output_dir: str | Path) -> GraphArtifacts:
     output = Path(output_dir)
     data = json.loads((output / "graph.json").read_text(encoding="utf-8"))
