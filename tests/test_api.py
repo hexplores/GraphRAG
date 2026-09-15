@@ -69,7 +69,6 @@ def test_query_endpoint_returns_empty_on_nonmatching_query(tmp_path):
             "query": "what is GraphRAG",
             "top_k": 5,
             "use_graph": True,
-            "min_score": 0.0,
         },
     )
 

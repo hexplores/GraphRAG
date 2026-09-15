@@ -22,7 +22,7 @@ class QueryRequest(BaseModel):
     use_graph: bool = True
     no_graph: bool = False
     expansion_hops: int = Field(default=1, ge=0)
-    min_score: float = Field(default=0.0, ge=0.0)
+    min_score: float = Field(default=0.2, ge=0.0)
     per_doc_cap: int = Field(default=0, ge=0)
     expand_top: int = Field(default=0, ge=0)
     expansion_cap: int = Field(default=0, ge=0)
@@ -193,7 +193,7 @@ def root() -> HTMLResponse:
                             use_graph: true,
                             no_graph: false,
                             expansion_hops: 1,
-                            min_score: 0,
+                            min_score: 0.2,
                             per_doc_cap: 0,
                             expand_top: 0,
                             expansion_cap: 0
