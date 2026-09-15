@@ -86,13 +86,14 @@ def retrieve(
 
     results: list[RetrievedChunk] = []
     for idx in expanded_indices:
-        if scores[idx] < min_score:
+        score = float(scores[idx])
+        if score <= min_score:
             continue
         chunk = chunks[idx]
         results.append(
             RetrievedChunk(
                 chunk_id=chunk["chunk_id"],
-                score=float(scores[idx]),
+                score=score,
                 text=chunk["text"],
                 doc_id=chunk["doc_id"],
             )
