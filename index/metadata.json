@@ -7,9 +7,25 @@
     "top_k": 5
   },
   "documents": [
-    "data_1.txt",
-    "data_2.txt",
-    "data_3.txt",
-    "data_4.txt"
+    "papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md",
+    "papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md",
+    "papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md",
+    "papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md",
+    "papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md",
+    "papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md",
+    "papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md",
+    "papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md",
+    "papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md",
+    "papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md",
+    "papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md",
+    "papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md",
+    "papers/Drug_discovery_with_explainable_artificial_intelligence.md",
+    "papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md",
+    "papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md",
+    "papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md",
+    "papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md",
+    "papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md",
+    "papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md",
+    "papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md"
   ]
 }

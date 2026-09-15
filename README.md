@@ -27,6 +27,26 @@ Query:
 A sample configuration file is available at configs/config.example.json. You can pass it with:
 - Command: graphrag-smart-retrieval build --input data --output index --config configs/config.example.json
 
+## Collect Academic Data
+Use the included ArXiv collector to create Markdown files from paper metadata and abstracts:
+
+```bash
+python3 scripts/collect_arxiv.py \
+	--query "explainable artificial intelligence" \
+	--output data/papers \
+	--max-results 20
+```
+
+Then build the retrieval index:
+
+```bash
+PYTHONPATH=src python3 -m graphrag_smart_retrieval.cli build \
+	--input data \
+	--output index
+```
+
+The collector stores the paper title, authors, year, category, abstract, and ArXiv source URL. Keep the source URL and check each dataset's terms before redistributing collected content.
+
 ## Output Artifacts
 The index folder contains:
 - chunks.json

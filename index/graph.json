@@ -5,39 +5,109 @@
   "nodes": [
     {
       "node_type": "document",
-      "doc_id": "data_1.txt",
-      "id": "doc::data_1.txt"
+      "doc_id": "papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md",
+      "id": "doc::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md"
     },
     {
       "node_type": "document",
-      "doc_id": "data_2.txt",
-      "id": "doc::data_2.txt"
+      "doc_id": "papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md",
+      "id": "doc::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md"
     },
     {
       "node_type": "document",
-      "doc_id": "data_3.txt",
-      "id": "doc::data_3.txt"
+      "doc_id": "papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md",
+      "id": "doc::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md"
     },
     {
       "node_type": "document",
-      "doc_id": "data_4.txt",
-      "id": "doc::data_4.txt"
+      "doc_id": "papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md",
+      "id": "doc::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md",
+      "id": "doc::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md",
+      "id": "doc::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md",
+      "id": "doc::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md",
+      "id": "doc::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md",
+      "id": "doc::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md",
+      "id": "doc::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md",
+      "id": "doc::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md",
+      "id": "doc::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Drug_discovery_with_explainable_artificial_intelligence.md",
+      "id": "doc::papers/Drug_discovery_with_explainable_artificial_intelligence.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md",
+      "id": "doc::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md",
+      "id": "doc::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md",
+      "id": "doc::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md",
+      "id": "doc::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md",
+      "id": "doc::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md",
+      "id": "doc::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md"
+    },
+    {
+      "node_type": "document",
+      "doc_id": "papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md",
+      "id": "doc::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md"
     },
     {
       "node_type": "chunk",
-      "chunk_id": "data_1.txt::chunk-0",
-      "doc_id": "data_1.txt",
-      "id": "chunk::data_1.txt::chunk-0"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "and",
-      "id": "kw::and"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "coffee",
-      "id": "kw::coffee"
+      "chunk_id": "papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "doc_id": "papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md",
+      "id": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0"
     },
     {
       "node_type": "keyword",
@@ -46,106 +116,119 @@
     },
     {
       "node_type": "keyword",
-      "keyword": "beans",
-      "id": "kw::beans"
+      "keyword": "xai",
+      "id": "kw::xai"
     },
     {
       "node_type": "keyword",
-      "keyword": "dark",
-      "id": "kw::dark"
+      "keyword": "aging",
+      "id": "kw::aging"
     },
     {
       "node_type": "keyword",
-      "keyword": "with",
-      "id": "kw::with"
+      "keyword": "and",
+      "id": "kw::and"
     },
     {
       "node_type": "keyword",
-      "keyword": "acidity",
-      "id": "kw::acidity"
+      "keyword": "artificial",
+      "id": "kw::artificial"
     },
     {
       "node_type": "keyword",
-      "keyword": "are",
-      "id": "kw::are"
+      "keyword": "intelligence",
+      "id": "kw::intelligence"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "models",
+      "id": "kw::models"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "clock",
+      "id": "kw::clock"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Alena Kalyakulina",
+      "id": "entity::authors_alena_kalyakulina"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Artificial Intelligence",
+      "id": "entity::artificial_intelligence"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Claudio Franceschi",
+      "id": "entity::claudio_franceschi"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Mikhail Ivanchenko",
+      "id": "entity::mikhail_ivanchenko"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Alexey Moskalev",
+      "id": "entity::alexey_moskalev"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Igor Yusipov",
+      "id": "entity::igor_yusipov"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Categories",
+      "id": "entity::categories"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract",
+      "id": "entity::abstract"
+    },
+    {
+      "node_type": "entity",
+      "entity": "However",
+      "id": "entity::however"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Source",
+      "id": "entity::source"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Year",
+      "id": "entity::year"
+    },
+    {
+      "node_type": "entity",
+      "entity": "XAI",
+      "id": "entity::xai"
     },
     {
       "node_type": "chunk",
-      "chunk_id": "data_1.txt::chunk-1",
-      "doc_id": "data_1.txt",
-      "id": "chunk::data_1.txt::chunk-1"
+      "chunk_id": "papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "doc_id": "papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md",
+      "id": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
     },
     {
       "node_type": "keyword",
-      "keyword": "extraction",
-      "id": "kw::extraction"
+      "keyword": "home",
+      "id": "kw::home"
     },
     {
       "node_type": "keyword",
-      "keyword": "flavors",
-      "id": "kw::flavors"
+      "keyword": "smart",
+      "id": "kw::smart"
     },
     {
       "node_type": "keyword",
-      "keyword": "grinds",
-      "id": "kw::grinds"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "light",
-      "id": "kw::light"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "roasts",
-      "id": "kw::roasts"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "storage",
-      "id": "kw::storage"
-    },
-    {
-      "node_type": "chunk",
-      "chunk_id": "data_2.txt::chunk-0",
-      "doc_id": "data_2.txt",
-      "id": "chunk::data_2.txt::chunk-0"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "learning",
-      "id": "kw::learning"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "data",
-      "id": "kw::data"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "model",
-      "id": "kw::model"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "uses",
-      "id": "kw::uses"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "bias",
-      "id": "kw::bias"
-    },
-    {
-      "node_type": "keyword",
-      "keyword": "evaluation",
-      "id": "kw::evaluation"
-    },
-    {
-      "node_type": "chunk",
-      "chunk_id": "data_3.txt::chunk-0",
-      "doc_id": "data_3.txt",
-      "id": "chunk::data_3.txt::chunk-0"
+      "keyword": "explanations",
+      "id": "kw::explanations"
     },
     {
       "node_type": "keyword",
@@ -154,13 +237,436 @@
     },
     {
       "node_type": "keyword",
-      "keyword": "kyoto",
-      "id": "kw::kyoto"
+      "keyword": "systems",
+      "id": "kw::systems"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Towards Achieving Human-Centered Explainability",
+      "id": "entity::towards_achieving_human-centered_explainability"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Explaining AI Decisions",
+      "id": "entity::explaining_ai_decisions"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Smart Home Environments",
+      "id": "entity::smart_home_environments"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Md Shajalal",
+      "id": "entity::authors_md_shajalal"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Alexander Boden",
+      "id": "entity::alexander_boden"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Dean-Robin Kern",
+      "id": "entity::dean-robin_kern"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Smart",
+      "id": "entity::abstract_smart"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Gunnar Stevens",
+      "id": "entity::gunnar_stevens"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Delong Du",
+      "id": "entity::delong_du"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Through",
+      "id": "entity::through"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1",
+      "doc_id": "papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md",
+      "id": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
     },
     {
       "node_type": "keyword",
-      "keyword": "include",
-      "id": "kw::include"
+      "keyword": "users",
+      "id": "kw::users"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "human-centered",
+      "id": "kw::human-centered"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "studies",
+      "id": "kw::studies"
+    },
+    {
+      "node_type": "entity",
+      "entity": "HCI",
+      "id": "entity::hci"
+    },
+    {
+      "node_type": "entity",
+      "entity": "We",
+      "id": "entity::we"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "doc_id": "papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md",
+      "id": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "model",
+      "id": "kw::model"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "explainability",
+      "id": "kw::explainability"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "regularization",
+      "id": "kw::regularization"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "this",
+      "id": "kw::this"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Selective Hidden Input Evaluation",
+      "id": "entity::selective_hidden_input_evaluation"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Francisco Herrera",
+      "id": "entity::francisco_herrera"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Learning Dynamics",
+      "id": "entity::learning_dynamics"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Regularization",
+      "id": "entity::regularization"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Transformation",
+      "id": "entity::transformation"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Experimental",
+      "id": "entity::experimental"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract As",
+      "id": "entity::abstract_as"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Sevillano-",
+      "id": "entity::sevillano-"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Existing",
+      "id": "entity::existing"
+    },
+    {
+      "node_type": "entity",
+      "entity": "T-SHIELD",
+      "id": "entity::t-shield"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "doc_id": "papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md",
+      "id": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "x-shield",
+      "id": "kw::x-shield"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "improving",
+      "id": "kw::improving"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "performance",
+      "id": "kw::performance"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "with",
+      "id": "kw::with"
+    },
+    {
+      "node_type": "entity",
+      "entity": "X-SHIELD",
+      "id": "entity::x-shield"
+    },
+    {
+      "node_type": "entity",
+      "entity": "This",
+      "id": "entity::this"
+    },
+    {
+      "node_type": "entity",
+      "entity": "The",
+      "id": "entity::the"
+    },
+    {
+      "node_type": "entity",
+      "entity": "In",
+      "id": "entity::in"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "doc_id": "papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md",
+      "id": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "ability",
+      "id": "kw::ability"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "methods",
+      "id": "kw::methods"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "such",
+      "id": "kw::such"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Explainable Artificial Intelligence",
+      "id": "entity::abstract_explainable_artificial_intelligence"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Explainable Artificial Intelligence",
+      "id": "entity::explainable_artificial_intelligence"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Tobias Labarta",
+      "id": "entity::authors_tobias_labarta"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Elizaveta Kulicheva",
+      "id": "entity::elizaveta_kulicheva"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Ronja Froelian",
+      "id": "entity::ronja_froelian"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Xenia Melman",
+      "id": "entity::xenia_melman"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Helpfulness",
+      "id": "entity::helpfulness"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Christian",
+      "id": "entity::christian"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Klitzing",
+      "id": "entity::klitzing"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Further",
+      "id": "entity::further"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Julian",
+      "id": "entity::julian"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "doc_id": "papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md",
+      "id": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "abs",
+      "id": "kw::abs"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "approach",
+      "id": "kw::approach"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "arxiv",
+      "id": "kw::arxiv"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "based",
+      "id": "kw::based"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "conducted",
+      "id": "kw::conducted"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Based",
+      "id": "entity::based"
+    },
+    {
+      "node_type": "entity",
+      "entity": "AI",
+      "id": "entity::ai"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "doc_id": "papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md",
+      "id": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "human",
+      "id": "kw::human"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "explainable",
+      "id": "kw::explainable"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "challenges",
+      "id": "kw::challenges"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Bridging Explainable Artificial Intelligence",
+      "id": "entity::bridging_explainable_artificial_intelligence"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Bernard Keenan",
+      "id": "entity::authors_bernard_keenan"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Human Understanding",
+      "id": "entity::human_understanding"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Functional Theory",
+      "id": "entity::functional_theory"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Elena Esposito",
+      "id": "entity::elena_esposito"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Niklas Luhmann",
+      "id": "entity::niklas_luhmann"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Over",
+      "id": "entity::abstract_over"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Communication",
+      "id": "entity::communication"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Kacper Sokol",
+      "id": "entity::kacper_sokol"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Insights",
+      "id": "entity::insights"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Luhmann",
+      "id": "entity::luhmann"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1",
+      "doc_id": "papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md",
+      "id": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "addressing",
+      "id": "kw::addressing"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Specifically",
+      "id": "entity::specifically"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Using",
+      "id": "entity::using"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md",
+      "id": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "construction",
+      "id": "kw::construction"
     },
     {
       "node_type": "keyword",
@@ -169,8 +675,778 @@
     },
     {
       "node_type": "keyword",
-      "keyword": "temples",
-      "id": "kw::temples"
+      "keyword": "opportunities",
+      "id": "kw::opportunities"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Peter ED Love",
+      "id": "entity::authors_peter_ed_love"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Explainable",
+      "id": "entity::abstract_explainable"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Jane Matthews",
+      "id": "entity::jane_matthews"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Opportunities",
+      "id": "entity::opportunities"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Stuart Porter",
+      "id": "entity::stuart_porter"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Construction",
+      "id": "entity::construction"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Lieyun Ding",
+      "id": "entity::lieyun_ding"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Hanbin Luo",
+      "id": "entity::hanbin_luo"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Weili Fang",
+      "id": "entity::weili_fang"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Precepts",
+      "id": "entity::precepts"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "doc_id": "papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md",
+      "id": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "are",
+      "id": "kw::are"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "accept",
+      "id": "kw::accept"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "decision-making",
+      "id": "kw::decision-making"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Interpretable Machine Learning",
+      "id": "entity::interpretable_machine_learning"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Richard Dazeley",
+      "id": "entity::authors_richard_dazeley"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Charlotte Young",
+      "id": "entity::charlotte_young"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Francisco Cruz",
+      "id": "entity::francisco_cruz"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Cameron Foale",
+      "id": "entity::cameron_foale"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Peter Vamplew",
+      "id": "entity::peter_vamplew"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Sunil Aryal",
+      "id": "entity::sunil_aryal"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Drivers",
+      "id": "entity::drivers"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "doc_id": "papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md",
+      "id": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "explanation",
+      "id": "kw::explanation"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "levels",
+      "id": "kw::levels"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "paper",
+      "id": "kw::paper"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "these",
+      "id": "kw::these"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Broad-XAI",
+      "id": "entity::broad-xai"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Broad",
+      "id": "entity::broad"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Yet",
+      "id": "entity::yet"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "doc_id": "papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md",
+      "id": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "manufacturing",
+      "id": "kw::manufacturing"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "techniques",
+      "id": "kw::techniques"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "domain",
+      "id": "kw::domain"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Georgios Sofianidis",
+      "id": "entity::authors_georgios_sofianidis"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Dimosthenis Kyriazis",
+      "id": "entity::dimosthenis_kyriazis"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Manufacturing",
+      "id": "entity::manufacturing"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract The",
+      "id": "entity::abstract_the"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Opaqueness",
+      "id": "entity::opaqueness"
+    },
+    {
+      "node_type": "entity",
+      "entity": "A Review",
+      "id": "entity::a_review"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Despite",
+      "id": "entity::despite"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Dunja",
+      "id": "entity::dunja"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "doc_id": "papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md",
+      "id": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "trust",
+      "id": "kw::trust"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "transparency",
+      "id": "kw::transparency"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "increase",
+      "id": "kw::increase"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Arnav Kartikeya",
+      "id": "entity::authors_arnav_kartikeya"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Trust",
+      "id": "entity::abstract_trust"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Explainable",
+      "id": "entity::explainable"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Examining",
+      "id": "entity::examining"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Results",
+      "id": "entity::results"
+    },
+    {
+      "node_type": "entity",
+      "entity": "HC",
+      "id": "entity::hc"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md",
+      "id": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "review",
+      "id": "kw::review"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "has",
+      "id": "kw::has"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Giulia Vilone",
+      "id": "entity::authors_giulia_vilone"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Systematic Review",
+      "id": "entity::systematic_review"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Luca Longo",
+      "id": "entity::luca_longo"
+    },
+    {
+      "node_type": "entity",
+      "entity": "It",
+      "id": "entity::it"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "doc_id": "papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md",
+      "id": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "cfes",
+      "id": "kw::cfes"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "cfe",
+      "id": "kw::cfe"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "that",
+      "id": "kw::that"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "user",
+      "id": "kw::user"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "behavior",
+      "id": "kw::behavior"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "counterfactual",
+      "id": "kw::counterfactual"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Counterfactual Explanations",
+      "id": "entity::counterfactual_explanations"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Counterfactual",
+      "id": "entity::abstract_counterfactual"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Ulrike Kuhl",
+      "id": "entity::authors_ulrike_kuhl"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Barbara Hammer",
+      "id": "entity::barbara_hammer"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Directionality",
+      "id": "entity::directionality"
+    },
+    {
+      "node_type": "entity",
+      "entity": "User Behavior",
+      "id": "entity::user_behavior"
+    },
+    {
+      "node_type": "entity",
+      "entity": "For Better",
+      "id": "entity::for_better"
+    },
+    {
+      "node_type": "entity",
+      "entity": "The Impact",
+      "id": "entity::the_impact"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Moreover",
+      "id": "entity::moreover"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "doc_id": "papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md",
+      "id": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "compared",
+      "id": "kw::compared"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "downward",
+      "id": "kw::downward"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "research",
+      "id": "kw::research"
+    },
+    {
+      "node_type": "entity",
+      "entity": "DirectionalAlienZoo",
+      "id": "entity::directionalalienzoo"
+    },
+    {
+      "node_type": "entity",
+      "entity": "These",
+      "id": "entity::these"
+    },
+    {
+      "node_type": "entity",
+      "entity": "CFEs",
+      "id": "entity::cfes"
+    },
+    {
+      "node_type": "entity",
+      "entity": "To",
+      "id": "entity::to"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "doc_id": "papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md",
+      "id": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "section",
+      "id": "kw::section"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "biomedical",
+      "id": "kw::biomedical"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "applications",
+      "id": "kw::applications"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Natural Language Processing",
+      "id": "entity::natural_language_processing"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Milad Moradi",
+      "id": "entity::authors_milad_moradi"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Biomedical Domain",
+      "id": "entity::biomedical_domain"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Matthias Samwald",
+      "id": "entity::matthias_samwald"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Deep Learning",
+      "id": "entity::deep_learning"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract In",
+      "id": "entity::abstract_in"
+    },
+    {
+      "node_type": "entity",
+      "entity": "In Section",
+      "id": "entity::in_section"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Section",
+      "id": "entity::section"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Deep",
+      "id": "entity::deep"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "doc_id": "papers/Drug_discovery_with_explainable_artificial_intelligence.md",
+      "id": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "deep",
+      "id": "kw::deep"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "discovery",
+      "id": "kw::discovery"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Francesca Grisoni",
+      "id": "entity::francesca_grisoni"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Gisbert Schneider",
+      "id": "entity::gisbert_schneider"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract Deep",
+      "id": "entity::abstract_deep"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors",
+      "id": "entity::authors"
+    },
+    {
+      "node_type": "entity",
+      "entity": "There",
+      "id": "entity::there"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Drug",
+      "id": "entity::drug"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Luna",
+      "id": "entity::luna"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "doc_id": "papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md",
+      "id": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "field",
+      "id": "kw::field"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Concept-based Explainable Artificial Intelligence",
+      "id": "entity::concept-based_explainable_artificial_intelligence"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Eleonora Poeta",
+      "id": "entity::authors_eleonora_poeta"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Gabriele Ciravegna",
+      "id": "entity::gabriele_ciravegna"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Tania Cerquitelli",
+      "id": "entity::tania_cerquitelli"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Concept-based",
+      "id": "entity::concept-based"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Elena Baralis",
+      "id": "entity::elena_baralis"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Eliana Pastor",
+      "id": "entity::eliana_pastor"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Additionally",
+      "id": "entity::additionally"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Nevertheless",
+      "id": "entity::nevertheless"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md",
+      "id": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "many",
+      "id": "kw::many"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "popular",
+      "id": "kw::popular"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Explainable Artificial Intelligence Approaches",
+      "id": "entity::explainable_artificial_intelligence_approaches"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Sheikh Rabiul Islam",
+      "id": "entity::authors_sheikh_rabiul_islam"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Sheikh Khaled Ghafoor",
+      "id": "entity::sheikh_khaled_ghafoor"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Mohiuddin Ahmed",
+      "id": "entity::mohiuddin_ahmed"
+    },
+    {
+      "node_type": "entity",
+      "entity": "William Eberle",
+      "id": "entity::william_eberle"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Practitioners",
+      "id": "entity::practitioners"
+    },
+    {
+      "node_type": "entity",
+      "entity": "A Survey",
+      "id": "entity::a_survey"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1",
+      "doc_id": "papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md",
+      "id": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "addition",
+      "id": "kw::addition"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "adopt",
+      "id": "kw::adopt"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "crucial",
+      "id": "kw::crucial"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "directions",
+      "id": "kw::directions"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "elicits",
+      "id": "kw::elicits"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "doc_id": "papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md",
+      "id": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "causability",
+      "id": "kw::causability"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "algorithms",
+      "id": "kw::algorithms"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "counterfactuals",
+      "id": "kw::counterfactuals"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Yu-Liang Chou",
+      "id": "entity::authors_yu-liang_chou"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Catarina Moreira",
+      "id": "entity::catarina_moreira"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Counterfactuals",
+      "id": "entity::counterfactuals"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract There",
+      "id": "entity::abstract_there"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Joaquim Jorge",
+      "id": "entity::joaquim_jorge"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Applications",
+      "id": "entity::applications"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Causability",
+      "id": "entity::causability"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Chun Ouyang",
+      "id": "entity::chun_ouyang"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Peter Bruza",
+      "id": "entity::peter_bruza"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Algorithms",
+      "id": "entity::algorithms"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1",
+      "doc_id": "papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md",
+      "id": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "literature",
+      "id": "kw::literature"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Our",
+      "id": "entity::our"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "doc_id": "papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md",
+      "id": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
     },
     {
       "node_type": "keyword",
@@ -178,262 +1454,2970 @@
       "id": "kw::can"
     },
     {
+      "node_type": "keyword",
+      "keyword": "classification",
+      "id": "kw::classification"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "dataset",
+      "id": "kw::dataset"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "eeg",
+      "id": "kw::eeg"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "input",
+      "id": "kw::input"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Brain-Computer Interface",
+      "id": "entity::brain-computer_interface"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Andrea Apicella",
+      "id": "entity::authors_andrea_apicella"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Dataset Shift Problem",
+      "id": "entity::dataset_shift_problem"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Electroencephalogram",
+      "id": "entity::electroencephalogram"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Andrea Pollastro",
+      "id": "entity::andrea_pollastro"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Roberto Prevete",
+      "id": "entity::roberto_prevete"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Dataset Shift",
+      "id": "entity::dataset_shift"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract An",
+      "id": "entity::abstract_an"
+    },
+    {
+      "node_type": "entity",
+      "entity": "EEG-based",
+      "id": "entity::eeg-based"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Francesco",
+      "id": "entity::francesco"
+    },
+    {
       "node_type": "chunk",
-      "chunk_id": "data_4.txt::chunk-0",
-      "doc_id": "data_4.txt",
-      "id": "chunk::data_4.txt::chunk-0"
+      "chunk_id": "papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "doc_id": "papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md",
+      "id": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "node_type": "keyword",
-      "keyword": "used",
-      "id": "kw::used"
+      "keyword": "dialogue",
+      "id": "kw::dialogue"
     },
     {
       "node_type": "keyword",
-      "keyword": "api",
-      "id": "kw::api"
+      "keyword": "interaction",
+      "id": "kw::interaction"
     },
     {
       "node_type": "keyword",
-      "keyword": "headers",
-      "id": "kw::headers"
+      "keyword": "dialogues",
+      "id": "kw::dialogues"
+    },
+    {
+      "node_type": "entity",
+      "entity": "A Grounded Interaction Protocol",
+      "id": "entity::a_grounded_interaction_protocol"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Prashan Madumal",
+      "id": "entity::authors_prashan_madumal"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Liz Sonenberg",
+      "id": "entity::liz_sonenberg"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Frank Vetere",
+      "id": "entity::frank_vetere"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Successful",
+      "id": "entity::successful"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Tim Miller",
+      "id": "entity::tim_miller"
+    },
+    {
+      "node_type": "entity",
+      "entity": "ADF",
+      "id": "entity::adf"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "doc_id": "papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md",
+      "id": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
     },
     {
       "node_type": "keyword",
-      "keyword": "http",
-      "id": "kw::http"
+      "keyword": "effects",
+      "id": "kw::effects"
     },
     {
       "node_type": "keyword",
-      "keyword": "access",
-      "id": "kw::access"
+      "keyword": "analysis",
+      "id": "kw::analysis"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "class-dependent",
+      "id": "kw::class-dependent"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "evaluation",
+      "id": "kw::evaluation"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Class-Dependent Perturbation Effects",
+      "id": "entity::class-dependent_perturbation_effects"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Evaluating Time Series Attributions",
+      "id": "entity::evaluating_time_series_attributions"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Authors Gregor Baer",
+      "id": "entity::authors_gregor_baer"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Pieter Van Gorp",
+      "id": "entity::pieter_van_gorp"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Chao Zhang",
+      "id": "entity::chao_zhang"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Within XAI",
+      "id": "entity::within_xai"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Isel Grau",
+      "id": "entity::isel_grau"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Although",
+      "id": "entity::although"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1",
+      "doc_id": "papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md",
+      "id": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "account",
+      "id": "kw::account"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "although",
+      "id": "kw::although"
+    },
+    {
+      "node_type": "chunk",
+      "chunk_id": "papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "doc_id": "papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md",
+      "id": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "dialog",
+      "id": "kw::dialog"
+    },
+    {
+      "node_type": "keyword",
+      "keyword": "between",
+      "id": "kw::between"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Grounded Dialog Model",
+      "id": "entity::grounded_dialog_model"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Abstract To",
+      "id": "entity::abstract_to"
+    },
+    {
+      "node_type": "entity",
+      "entity": "Towards",
+      "id": "entity::towards"
     }
   ],
   "edges": [
     {
       "edge_type": "contains",
-      "source": "doc::data_1.txt",
-      "target": "chunk::data_1.txt::chunk-0"
+      "source": "doc::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md",
+      "target": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0"
     },
     {
       "edge_type": "contains",
-      "source": "doc::data_1.txt",
-      "target": "chunk::data_1.txt::chunk-1"
+      "source": "doc::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
     },
     {
       "edge_type": "contains",
-      "source": "doc::data_2.txt",
-      "target": "chunk::data_2.txt::chunk-0"
+      "source": "doc::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
     },
     {
       "edge_type": "contains",
-      "source": "doc::data_3.txt",
-      "target": "chunk::data_3.txt::chunk-0"
+      "source": "doc::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "edge_type": "contains",
-      "source": "doc::data_4.txt",
-      "target": "chunk::data_4.txt::chunk-0"
+      "source": "doc::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Drug_discovery_with_explainable_artificial_intelligence.md",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md",
+      "target": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "contains",
+      "source": "doc::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::and"
-    },
-    {
-      "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::coffee"
-    },
-    {
-      "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
       "target": "kw::the"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::beans"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::xai"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::dark"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::aging"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::with"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::and"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::acidity"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::artificial"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-0",
-      "target": "kw::are"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::intelligence"
     },
     {
       "edge_type": "mentions",
-      "source": "kw::and",
-      "target": "chunk::data_1.txt::chunk-1"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::models"
     },
     {
       "edge_type": "mentions",
-      "source": "kw::and",
-      "target": "chunk::data_2.txt::chunk-0"
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "kw::clock"
     },
     {
-      "edge_type": "mentions",
-      "source": "kw::and",
-      "target": "chunk::data_3.txt::chunk-0"
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::authors_alena_kalyakulina"
     },
     {
-      "edge_type": "mentions",
-      "source": "kw::and",
-      "target": "chunk::data_4.txt::chunk-0"
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::artificial_intelligence"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::claudio_franceschi"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::mikhail_ivanchenko"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::alexey_moskalev"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::igor_yusipov"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::categories"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::abstract"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::however"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::source"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::year"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/eXplainable_Artificial_Intelligence_XAI_in_aging_clock_models.md::chunk-0",
+      "target": "entity::xai"
     },
     {
       "edge_type": "mentions",
       "source": "kw::the",
-      "target": "chunk::data_3.txt::chunk-0"
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "kw::dark",
-      "target": "chunk::data_1.txt::chunk-1"
+      "source": "kw::the",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "kw::are",
-      "target": "chunk::data_2.txt::chunk-0"
+      "source": "kw::the",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-1",
-      "target": "kw::extraction"
+      "source": "kw::the",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-1",
-      "target": "kw::flavors"
+      "source": "kw::the",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-1",
-      "target": "kw::grinds"
+      "source": "kw::the",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-1",
-      "target": "kw::light"
+      "source": "kw::the",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-1",
-      "target": "kw::roasts"
+      "source": "kw::the",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_1.txt::chunk-1",
-      "target": "kw::storage"
+      "source": "kw::the",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_2.txt::chunk-0",
-      "target": "kw::learning"
+      "source": "kw::the",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_2.txt::chunk-0",
-      "target": "kw::data"
+      "source": "kw::the",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_2.txt::chunk-0",
-      "target": "kw::model"
+      "source": "kw::the",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_2.txt::chunk-0",
-      "target": "kw::uses"
+      "source": "kw::the",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_2.txt::chunk-0",
-      "target": "kw::bias"
+      "source": "kw::the",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_2.txt::chunk-0",
-      "target": "kw::evaluation"
+      "source": "kw::the",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_3.txt::chunk-0",
+      "source": "kw::the",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::the",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::xai",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::xai",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::xai",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::xai",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::xai",
+      "target": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::and",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::artificial",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::intelligence",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::artificial_intelligence",
+      "target": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::categories",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::however",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::however",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::however",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::source",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::year",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::year",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::year",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::year",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::year",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::xai",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::xai",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::xai",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::xai",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "kw::home"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "kw::smart"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "kw::explanations"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
       "target": "kw::for"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_3.txt::chunk-0",
-      "target": "kw::kyoto"
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "kw::systems"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::towards_achieving_human-centered_explainability"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::explaining_ai_decisions"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::smart_home_environments"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::authors_md_shajalal"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::alexander_boden"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::dean-robin_kern"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::abstract_smart"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::gunnar_stevens"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::delong_du"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-0",
+      "target": "entity::through"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_3.txt::chunk-0",
-      "target": "kw::include"
+      "source": "kw::home",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_3.txt::chunk-0",
-      "target": "kw::its"
+      "source": "kw::smart",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_3.txt::chunk-0",
-      "target": "kw::temples"
+      "source": "kw::explanations",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_3.txt::chunk-0",
-      "target": "kw::can"
+      "source": "kw::explanations",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explanations",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explanations",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
     },
     {
       "edge_type": "mentions",
       "source": "kw::for",
-      "target": "chunk::data_4.txt::chunk-0"
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "kw::can",
-      "target": "chunk::data_4.txt::chunk-0"
+      "source": "kw::for",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_4.txt::chunk-0",
-      "target": "kw::used"
+      "source": "kw::for",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_4.txt::chunk-0",
-      "target": "kw::api"
+      "source": "kw::for",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_4.txt::chunk-0",
-      "target": "kw::headers"
+      "source": "kw::for",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_4.txt::chunk-0",
-      "target": "kw::http"
+      "source": "kw::for",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
     },
     {
       "edge_type": "mentions",
-      "source": "chunk::data_4.txt::chunk-0",
-      "target": "kw::access"
+      "source": "kw::for",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::for",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::systems",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::through",
+      "target": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::through",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1",
+      "target": "kw::users"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1",
+      "target": "kw::human-centered"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1",
+      "target": "kw::studies"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1",
+      "target": "entity::hci"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explaining_AI_Decisions_Towards_Achieving_Human-Centered_Explainability_in_Smart_Home_Environments.md::chunk-1",
+      "target": "entity::we"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::model"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::explainability"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::regularization"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::this"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::selective_hidden_input_evaluation"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::francisco_herrera"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::learning_dynamics"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::regularization"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::transformation"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::experimental"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::abstract_as"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::sevillano-"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::existing"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::t-shield"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::model",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::model",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::model",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainability",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::regularization",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::this",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::this",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::this",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::this",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::experimental",
+      "target": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::abstract_as",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::x-shield"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::improving"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::performance"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::with"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "entity::x-shield"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "entity::this"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "entity::the"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/X-SHIELD_Regularization_for_eXplainable_Artificial_Intelligence.md::chunk-1",
+      "target": "entity::in"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::with",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::with",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::this",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::this",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::this",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::this",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::this",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::the",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::in",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::in",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::in",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::ability"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::methods"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::such"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::abstract_explainable_artificial_intelligence"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::explainable_artificial_intelligence"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::authors_tobias_labarta"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::elizaveta_kulicheva"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::ronja_froelian"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::xenia_melman"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::helpfulness"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::christian"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::klitzing"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::further"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::julian"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::ability",
+      "target": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::methods",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::methods",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::methods",
+      "target": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::abstract_explainable_artificial_intelligence",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::abstract_explainable_artificial_intelligence",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::explainable_artificial_intelligence",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::abs"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::approach"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::arxiv"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::based"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "kw::conducted"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "entity::based"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Study_on_the_Helpfulness_of_Explainable_Artificial_Intelligence.md::chunk-1",
+      "target": "entity::ai"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::abs",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::abs",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::abs",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::abs",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::abs",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::arxiv",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::ai",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::ai",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::ai",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::ai",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::ai",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "kw::human"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "kw::explainable"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "kw::challenges"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::bridging_explainable_artificial_intelligence"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::authors_bernard_keenan"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::human_understanding"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::functional_theory"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::elena_esposito"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::niklas_luhmann"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::abstract_over"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::communication"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::kacper_sokol"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::insights"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-0",
+      "target": "entity::luhmann"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explainable",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::elena_esposito",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::niklas_luhmann",
+      "target": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::abstract_over",
+      "target": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1",
+      "target": "kw::addressing"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1",
+      "target": "entity::specifically"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Mind_the_Gap_Bridging_Explainable_Artificial_Intelligence_and_Human_Understanding_with_Luhmann_s_Functional_Theory_of_Co.md::chunk-1",
+      "target": "entity::using"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "kw::construction"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "kw::its"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "kw::opportunities"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::authors_peter_ed_love"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::abstract_explainable"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::jane_matthews"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::opportunities"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::stuart_porter"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::construction"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::lieyun_ding"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::hanbin_luo"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::weili_fang"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Precepts_Methods_and_Opportunities_for_Research_in_Construction.md::chunk-0",
+      "target": "entity::precepts"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "kw::are"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "kw::accept"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "kw::decision-making"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::interpretable_machine_learning"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::authors_richard_dazeley"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::charlotte_young"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::francisco_cruz"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::cameron_foale"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::peter_vamplew"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::sunil_aryal"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-0",
+      "target": "entity::drivers"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::are",
+      "target": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "kw::explanation"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "kw::levels"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "kw::paper"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "kw::these"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "entity::broad-xai"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "entity::broad"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Levels_of_explainable_artificial_intelligence_for_human-aligned_conversational_explanations.md::chunk-1",
+      "target": "entity::yet"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explanation",
+      "target": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::explanation",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::these",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::these",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "kw::manufacturing"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "kw::techniques"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "kw::domain"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::authors_georgios_sofianidis"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::dimosthenis_kyriazis"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::manufacturing"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::abstract_the"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::opaqueness"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::a_review"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::despite"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Review_of_Explainable_Artificial_Intelligence_in_Manufacturing.md::chunk-0",
+      "target": "entity::dunja"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::domain",
+      "target": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::abstract_the",
+      "target": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::abstract_the",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::despite",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "kw::trust"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "kw::transparency"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "kw::increase"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::authors_arnav_kartikeya"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::abstract_trust"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::explainable"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::examining"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::results"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Examining_correlation_between_trust_and_transparency_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::hc"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::results",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "target": "kw::review"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "target": "kw::has"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "target": "entity::authors_giulia_vilone"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "target": "entity::systematic_review"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "target": "entity::luca_longo"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_a_Systematic_Review.md::chunk-0",
+      "target": "entity::it"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "kw::cfes"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "kw::cfe"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "kw::that"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "kw::user"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "kw::behavior"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "kw::counterfactual"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::counterfactual_explanations"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::abstract_counterfactual"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::authors_ulrike_kuhl"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::barbara_hammer"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::directionality"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::user_behavior"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::for_better"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::the_impact"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-0",
+      "target": "entity::moreover"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::cfes",
+      "target": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::that",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "kw::compared"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "kw::downward"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "kw::research"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "entity::directionalalienzoo"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "entity::these"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "entity::cfes"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/For_Better_or_Worse_The_Impact_of_Counterfactual_Explanations_Directionality_on_User_Behavior_in_xAI.md::chunk-1",
+      "target": "entity::to"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "kw::section"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "kw::biomedical"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "kw::applications"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::natural_language_processing"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::authors_milad_moradi"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::biomedical_domain"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::matthias_samwald"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::deep_learning"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::abstract_in"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::in_section"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::section"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Deep_Learning_Natural_Language_Processing_and_Explainable_Artificial_Intelligence_in_the_Biomedical_Domain.md::chunk-0",
+      "target": "entity::deep"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::applications",
+      "target": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::applications",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::applications",
+      "target": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "kw::deep"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "kw::discovery"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::francesca_grisoni"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::gisbert_schneider"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::abstract_deep"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::authors"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::there"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::drug"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Drug_discovery_with_explainable_artificial_intelligence.md::chunk-0",
+      "target": "entity::luna"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "kw::field"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::concept-based_explainable_artificial_intelligence"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::authors_eleonora_poeta"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::gabriele_ciravegna"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::tania_cerquitelli"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::concept-based"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::elena_baralis"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::eliana_pastor"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::additionally"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Concept-based_Explainable_Artificial_Intelligence_A_Survey.md::chunk-0",
+      "target": "entity::nevertheless"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "kw::many"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "kw::popular"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::explainable_artificial_intelligence_approaches"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::authors_sheikh_rabiul_islam"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::sheikh_khaled_ghafoor"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::mohiuddin_ahmed"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::william_eberle"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::practitioners"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-0",
+      "target": "entity::a_survey"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1",
+      "target": "kw::addition"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1",
+      "target": "kw::adopt"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1",
+      "target": "kw::crucial"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1",
+      "target": "kw::directions"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Explainable_Artificial_Intelligence_Approaches_A_Survey.md::chunk-1",
+      "target": "kw::elicits"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "kw::causability"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "kw::algorithms"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "kw::counterfactuals"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::authors_yu-liang_chou"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::catarina_moreira"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::counterfactuals"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::abstract_there"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::joaquim_jorge"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::applications"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::causability"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::chun_ouyang"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::peter_bruza"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-0",
+      "target": "entity::algorithms"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::causability",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::algorithms",
+      "target": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1",
+      "target": "kw::literature"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Counterfactuals_and_Causability_in_Explainable_Artificial_Intelligence_Theory_Algorithms_and_Applications.md::chunk-1",
+      "target": "entity::our"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "kw::can"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "kw::classification"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "kw::dataset"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "kw::eeg"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "kw::input"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::brain-computer_interface"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::authors_andrea_apicella"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::dataset_shift_problem"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::electroencephalogram"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::andrea_pollastro"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::roberto_prevete"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::dataset_shift"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::abstract_an"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::eeg-based"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Toward_the_application_of_XAI_methods_in_EEG-based_systems.md::chunk-0",
+      "target": "entity::francesco"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::dialogue"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::interaction"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::dialogues"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::a_grounded_interaction_protocol"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::authors_prashan_madumal"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::liz_sonenberg"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::frank_vetere"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::successful"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::tim_miller"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/A_Grounded_Interaction_Protocol_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::adf"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::authors_prashan_madumal",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::liz_sonenberg",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::frank_vetere",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::successful",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::tim_miller",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "kw::effects"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "kw::analysis"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "kw::class-dependent"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "kw::evaluation"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::class-dependent_perturbation_effects"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::evaluating_time_series_attributions"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::authors_gregor_baer"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::pieter_van_gorp"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::chao_zhang"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::within_xai"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::isel_grau"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-0",
+      "target": "entity::although"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::effects",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::analysis",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::analysis",
+      "target": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "kw::evaluation",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "entity::although",
+      "target": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1",
+      "target": "kw::account"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Class-Dependent_Perturbation_Effects_in_Evaluating_Time_Series_Attributions.md::chunk-1",
+      "target": "kw::although"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::dialog"
+    },
+    {
+      "edge_type": "mentions",
+      "source": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "kw::between"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::grounded_dialog_model"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::abstract_to"
+    },
+    {
+      "edge_type": "mentions_entity",
+      "source": "chunk::papers/Towards_a_Grounded_Dialog_Model_for_Explainable_Artificial_Intelligence.md::chunk-0",
+      "target": "entity::towards"
     }
   ]
 }
